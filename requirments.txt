@@ -1,0 +1,2 @@
+nfelib>=2.1.0
+brazilfiscalreport>=0.6.0
